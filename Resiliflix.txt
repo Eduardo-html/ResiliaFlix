@@ -1,0 +1,21 @@
+<DOCYTPE! html>
+<hmtl>
+    <head>
+        <meta charset="UTF-8">
+        <title> Resilia </title>
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href=".css">
+    </head>
+        <body>
+        <header>
+        <div>
+        <h1>Resilia</h1>
+        <p>Filmes</p>
+        <p>Séries</p>
+        <p>Contato</p>
+        <p>Sobre</p>
+        </div>
+        <header>
+
+        </body>
+</html>

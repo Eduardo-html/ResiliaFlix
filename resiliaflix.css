@@ -1,0 +1,66 @@
+
+body{
+  background: #7E9D9D;
+  width:100%;
+}
+header{
+background:#000000;
+width: 100%;
+font-weight: bold;
+}
+.cabecalho .container{
+display:flex;
+align-items: center;
+justify-content:space-between;
+margin:0% 20% 2% 20% ;
+
+
+}
+.cabecalhonav1{
+display:flex;
+align-items:center;
+justify-content:center;
+
+}
+.namepagina{
+color:#87ab03;
+font-size: 36px;
+
+}
+.menu{
+font-size: 100%;
+background: #87ab03;
+color:#000000;
+border: 6% solid #000000;
+border-radius:20px;
+padding:6px 10px 1px 10px;
+margin: 20px 20px 2px 20px;
+}
+main{
+  height: 90%;
+ 
+}
+.rodape{
+  display: flex;
+  background: #87ab03;
+  width: 100%;
+  
+  
+}
+.icone {
+  display: flex;
+  align-items: center;
+  margin:0%/*cima*/ 2%/*direita*/ 0%/*baixo*/ 2%/*esquerdo*/;
+  width: 8%;
+  
+
+}
+#copy {
+  display:flex;
+  justify-content: center;
+  font-family: Arial;
+  margin: 0%;
+  background: #87ab03;
+  width:100%;
+
+  

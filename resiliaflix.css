@@ -36,28 +36,34 @@ border-radius:20px;
 padding:6px 10px 1px 10px;
 margin: 20px 20px 2px 20px;
 }
-main{
-  height: 90%;
+.CartazPrincipal{
+
+  height: 100%;
+  width: 100%;
  
 }
 .rodape{
   display: flex;
+  justify-content:center;
+  align-items:flex-end;
   background: #87ab03;
+  margin: 0%;
   width: 100%;
   
   
 }
 .icone {
-  display: flex;
-  align-items: center;
-  margin:0%/*cima*/ 2%/*direita*/ 0%/*baixo*/ 2%/*esquerdo*/;
-  width: 8%;
+  display:flex;
+  margin:0px 20px 0px 5px;
+  width:30px;
+
   
 
 }
 #copy {
   display:flex;
   justify-content: center;
+  align-items:flex-end;
   font-family: Arial;
   margin: 0%;
   background: #87ab03;

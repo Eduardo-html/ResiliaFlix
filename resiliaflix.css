@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
   background: #7E9D9D;
   width:100%;
@@ -112,3 +113,77 @@ flex-direction:column;
 width: 150px ;
 height: auto;    
     }
+=======
+
+body{
+  background: #7E9D9D;
+  width:100%;
+}
+header{
+background:#000000;
+width: 100%;
+font-weight: bold;
+}
+.cabecalho .container{
+display:flex;
+align-items: center;
+justify-content:space-between;
+margin:0% 20% 2% 20% ;
+
+
+}
+.cabecalhonav1{
+display:flex;
+align-items:center;
+justify-content:center;
+
+}
+.namepagina{
+color:#87ab03;
+font-size: 36px;
+
+}
+.menu{
+font-size: 100%;
+background: #87ab03;
+color:#000000;
+border: 6% solid #000000;
+border-radius:20px;
+padding:6px 10px 1px 10px;
+margin: 20px 20px 2px 20px;
+}
+.CartazPrincipal{
+
+  height: 100%;
+  width: 100%;
+ 
+}
+.rodape{
+  display: flex;
+  justify-content:center;
+  align-items:flex-end;
+  background: #87ab03;
+  margin: 0%;
+  width: 100%;
+  
+  
+}
+.icone {
+  display:flex;
+  margin:0px 20px 0px 5px;
+  width:30px;
+
+  
+
+}
+#copy {
+  display:flex;
+  justify-content: center;
+  align-items:flex-end;
+  font-family: Arial;
+  margin: 0%;
+  background: #87ab03;
+  width:100%;
+
+  
+>>>>>>> 172eaed86ca3ff645e849a0041c94d4dcab09982

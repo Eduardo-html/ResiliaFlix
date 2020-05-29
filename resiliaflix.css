@@ -35,11 +35,42 @@ border-radius:20px;
 padding:6px 10px 1px 10px;
 margin: 20px 20px 2px 20px;
 }
-.CartazPrincipal{
+main {
+  height: auto;
+  background: #7E9D9D;
+  display: flex;
+  flex-flow: row wrap;
+  padding-bottom: 30px;
+  justify-content: center;
+}
 
-  height: 100%;
+.CartazPrincipal {
+  display: flex;
+  color: #87ab03;
+  margin left: 13%;
+  margin right: 13%;
+  height: 0%;
   width: 100%;
- 
+}
+a{
+  cursor: pointer;
+}
+.cartaz:hover{
+  height: 150px;
+  width: 150px;
+
+}
+.filmes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.cartaz {
+  margin: 15px;
+  border-radius: 10px;
+  
 }
 .rodape{
   display: flex;
@@ -69,3 +100,4 @@ margin: 20px 20px 2px 20px;
   width:100%;
 
   
+}
